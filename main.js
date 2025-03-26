@@ -25,7 +25,7 @@
 //console.log(hamburger.ingredients[0]); //Salad
 //console.log(secondBurger.ingredients[0]); //Salad
 
-//Domanda1: 3 e non 4, perchè lo spread operator non copia oggetti annidati
+//Domanda1: Salad in entrambi i casi
 //Domanda2: 2, uno per hamburger e uno per secondBurger
 
 //Snack 3
